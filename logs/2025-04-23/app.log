@@ -1,0 +1,38 @@
+[W 250423 04:10:52 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:11:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:11:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:11:03 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250423 04:11:03 smartConnect:124] in pool
+[E 250423 04:11:05 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '38:87:d5:cb:47:2d', 'Accept': 'application/json', 'X-PrivateKey': 'MKb401Bm', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A507943', 'password': '1181', 'totp': 'HBZNZU7YCG35O4JHTE622JC64Q'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[W 250423 04:12:13 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:12:23 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:12:23 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:12:23 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250423 04:12:23 smartConnect:124] in pool
+[E 250423 04:12:25 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '38:87:d5:cb:47:2d', 'Accept': 'application/json', 'X-PrivateKey': 'MKb401Bm', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A507943', 'password': '1181', 'totp': 'HBZNZU7YCG35O4JHTE622JC64Q'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[W 250423 04:12:46 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:12:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:12:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:12:57 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250423 04:12:57 smartConnect:124] in pool
+[E 250423 04:12:59 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '38:87:d5:cb:47:2d', 'Accept': 'application/json', 'X-PrivateKey': 'MKb401Bm', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A507943', 'password': '1181', 'totp': 'HBZNZU7YCG35O4JHTE622JC64Q'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[W 250423 04:15:26 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:15:36 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:15:36 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:15:36 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:16:44 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:16:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:16:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:16:54 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:17:27 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:17:38 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:17:38 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:17:38 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250423 04:17:38 smartConnect:124] in pool
+[E 250423 04:17:40 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '38:87:d5:cb:47:2d', 'Accept': 'application/json', 'X-PrivateKey': 'MKb401Bm', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A507943', 'password': '1181', 'totp': 'HBZNZU7YCG35O4JHTE622JC64Q'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
+[W 250423 04:19:08 smartWebSocketV2:318] Attempting to resubscribe/reconnect (Attempt 1)...
+[W 250423 04:19:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:19:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[W 250423 04:19:18 smartWebSocketV2:342] Connection closed due to max retry attempts reached.
+[I 250423 04:19:19 smartConnect:124] in pool
+[E 250423 04:19:21 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Error: Invalid totp. URL: https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '38:87:d5:cb:47:2d', 'Accept': 'application/json', 'X-PrivateKey': 'MKb401Bm', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'A507943', 'password': '1181', 'totp': 'HBZNZU7YCG35O4JHTE622JC64Q'}, Response: {'status': False, 'message': 'Invalid totp', 'errorcode': 'AB1050', 'data': None}
